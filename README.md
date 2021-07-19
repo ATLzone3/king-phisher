@@ -115,3 +115,5 @@ King Phisher Development Team:
 [issue-status]: http://img.shields.io/github/issues/securestate/king-phisher.svg
 [slack-link]: https://king-phisher-slackin.herokuapp.com/
 [slack-status]: https://img.shields.io/badge/slack-join-brightgreen.svg
+
+Thank you!
